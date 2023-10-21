@@ -1,2 +1,2 @@
-# bordgame
-Bord Game Club in Y.S middle school
+# boardgame
+Board Game Club in Y.S middle school
